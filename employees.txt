@@ -1,3 +1,0 @@
-1001 Azan SE 5e+06
-101 Alice HR 50000
-102 Bob IT 60000
